@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './css/Sell.css'
 const Sell=()=>{
     return(
